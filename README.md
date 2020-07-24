@@ -17,7 +17,9 @@ To install Ionic on Ubuntu 20.04: [install on Ubuntu 20.04](https://tecadmin.net
 
 1. To create a new Ionic application : `ionic start`
 2. Run the APP:
+
     2.1 `cd NAMEAPP`
+   
     2.2 `ionic serve`
 3. To generate a new page: `ionic generate page PAGENAME`
 
