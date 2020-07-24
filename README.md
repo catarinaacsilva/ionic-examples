@@ -23,10 +23,6 @@ To install Ionic on Ubuntu 20.04: [install on Ubuntu 20.04](https://tecadmin.net
     2.2 `ionic serve`
 3. To generate a new page: `ionic generate page PAGENAME`
 
-## Create Menu
-
-[menu](https://www.positronx.io/add-dynamic-side-menu-in-ionic-with-active-class/)
-
 ## Images
 
 All the images should be in `src/assets/images/`
