@@ -6,7 +6,7 @@
   </ion-toolbar> 
  </ion-header> 
  <ion-content class="ion-padding" scroll-y="false" color="dark"> 
-  <ion-slides> 
+  <ion-slides pager="true" [options]="slideopts">  
   <ion-slide> 
   <img src="1280px-Ionic_Logo.svg.png"> 
   <h2><b>Ionic Appication</b></h2> 
@@ -15,17 +15,18 @@
   <ion-slide> 
   <img src="1280px-Ionic_Logo.svg.png"> 
   <h2><b>History of Ionic</b></h2> 
-   <p>It is a complete open-source platform for hybrid mobile application development created by Ben Sperry, Max Lynch and Adam Bradley of Drifty Co. in 2013.</p> 
-   </ion-slide> 
-   <ion-slide> 
-   <img src="1280px-Ionic_Logo.svg.png"> 
-   <h2><b>What is Ionic Slide</b></h2> 
-   <p>The ionic slides component is the multi-section container. You can swipe or drag any segment between them. Slides help it easy to make galleries, tutorials, and page-based layouts.</p> 
-   </ion-slide> 
-   <ion-slide> 
-   <img src="1280px-Ionic_Logo.svg.png"> 
-   <h2>Ready to Start?</h2> 
-   <ion-button fill="clear">Continue <ion-icon slot="end" name="arrow-forward"></ion-icon></ion-button> 
-   </ion-slide> 
+  <p>It is a complete open-source platform for hybrid mobile application development created by Ben Sperry, Max Lynch and Adam Bradley of Drifty Co. in 2013.</p> 
+  </ion-slide> 
+  <ion-slide> 
+  <img src="1280px-Ionic_Logo.svg.png"> 
+  <h2><b>What is Ionic Slide</b></h2> 
+  <p>The ionic slides component is the multi-section container. You can swipe or drag any segment between them. Slides help it easy to make galleries, tutorials, and page-based layouts.</p> 
+  </ion-slide> 
+  <ion-slide> 
+  <img src="1280px-Ionic_Logo.svg.png"> 
+  <h2>Ready to Start?</h2> 
+  <ion-button fill="clear">Continue <ion-icon slot="end" name="arrow-forward"></ion-icon></ion-button> 
+  </ion-slide> 
   </ion-slides> 
-  </ion-content>  
+ </ion-content>  
+ 
