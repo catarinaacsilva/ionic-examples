@@ -1,0 +1,7 @@
+{
+  "name": "ionic-slides-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
