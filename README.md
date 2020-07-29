@@ -31,6 +31,14 @@ All the images should be in `src/assets/images/`
 
 `ionic capacitor run android`
 
+## Remove a page
+
+1. On app-routing.module.ts remove the content related with the page to remove
+
+2. Remove the folders on the directory.
+
+Based on the folowing this [link](https://enappd-apps.gitbook.io/apps/ionic-4-full-app/removing-a-page-component)
+
 ## Authors
 
 * **Catarina Silva** - [catarinaacsilva](https://github.com/catarinaacsilva)
