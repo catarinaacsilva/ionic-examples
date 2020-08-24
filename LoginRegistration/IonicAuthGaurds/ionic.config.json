@@ -1,0 +1,7 @@
+{
+  "name": "IonicAuthGaurds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
