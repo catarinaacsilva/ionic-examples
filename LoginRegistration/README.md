@@ -2,6 +2,8 @@
 
 Ionic 4/5 is using Angular Routing, so it becomes very easy to add authentication in an Ionic application using Auth Guards.
 
+Based on this [link](https://www.freakyjolly.com/ionic-angular-guards-tutorial/)
+
 ## Requirements
 
 - ionic
